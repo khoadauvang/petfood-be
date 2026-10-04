@@ -11,6 +11,7 @@
 	<groupId>com.isp392</groupId>
 	<artifactId>petfood-be</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>petfood-be</name>
 	<description>petfood-be</description>
 	<url/>
